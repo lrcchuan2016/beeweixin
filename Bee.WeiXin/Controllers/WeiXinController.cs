@@ -42,7 +42,7 @@ namespace Bee.WeiXin.Controller
                           {
                               Description = item.Description,
                               Title = item.Title,
-                              PicUrl = string.Format("http://{0}/{1}", HttpContext.Request.Url.Host, item.PicUrl),
+                              PicUrl = string.Format("http://{0}{1}", HttpContext.Request.Url.Host, item.PicUrl),
                               Url = string.Format("http://{0}/WeiXin/ShowArticle.bee?id={1}&", HttpContext.Request.Url.Host, item.Id)
                           }).ToList();
                 

@@ -1,0 +1,438 @@
+2013-09-24 14:38:36:7466 [8] Debug Bee.Data.DbSession.ADrGf8KpWKJk1sRIBnr0() 
+DefaultDriver:AuthUser 
+
+2013-09-24 14:38:37:0546 [8] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->AuthMain
+Bee_ActionName------->index
+ 
+
+2013-09-24 14:38:37:2217 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->authmain
+Bee_ActionName------->Login
+ 
+
+2013-09-24 14:38:38:1327 [8] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->authmain
+Bee_ActionName------->Login
+ 
+
+2013-09-24 14:38:39:6988 [8] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->AuthMain
+Bee_ActionName------->Login
+  username------->admin
+  password------->admin
+ 
+
+2013-09-24 14:38:39:8548 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->authmain
+Bee_ActionName------->Index
+ 
+
+2013-09-24 14:38:41:3209 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->authmain
+Bee_ActionName------->Index
+ 
+
+2013-09-24 14:41:20:7298 [4] Debug Bee.WeiXin.WeiXinDispatcher.GetRouteData(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\WeiXinDispatcher.cs:line 43 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->1380004861
+   MsgType------->text
+   Content------->1
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->text
+ 
+
+2013-09-24 14:41:20:8068 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->2013/9/24 14:41:01
+   MsgType------->text
+   Content------->1
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->Other
+ 
+
+2013-09-24 14:41:30:9614 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Index
+         _------->1380004890943
+ 
+
+2013-09-24 14:41:42:2840 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->2
+ 
+
+2013-09-24 14:42:04:7743 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->2
+ 
+
+2013-09-24 14:42:43:8615 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->3
+ 
+
+2013-09-24 14:42:44:7626 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->4
+ 
+
+2013-09-24 14:42:45:6176 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->5
+ 
+
+2013-09-24 14:42:53:4011 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->4
+ 
+
+2013-09-24 14:42:53:9341 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->3
+ 
+
+2013-09-24 14:42:54:8032 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->5
+ 
+
+2013-09-24 14:42:55:4662 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->3
+ 
+
+2013-09-24 14:42:56:1412 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->4
+ 
+
+2013-09-24 14:42:56:7213 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->5
+ 
+
+2013-09-24 14:43:40:3238 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 14:44:50:3015 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->3
+ 
+
+2013-09-24 14:44:51:7686 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->7
+ 
+
+2013-09-24 14:46:44:5797 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->3
+ 
+
+2013-09-24 14:47:15:0733 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->4
+ 
+
+2013-09-24 14:47:36:0805 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->5
+ 
+
+2013-09-24 14:48:40:3171 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 14:48:50:0137 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->7
+ 
+
+2013-09-24 14:53:40:3011 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 14:58:27:1239 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->20
+ 
+
+2013-09-24 14:58:40:3135 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 15:02:44:9749 [4] Debug Bee.WeiXin.WeiXinDispatcher.GetRouteData(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\WeiXinDispatcher.cs:line 43 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->1380006163
+   MsgType------->event
+     Event------->CLICK
+  EventKey------->V1001_M1_1
+Bee_ControllerName------->Demo
+Bee_ActionName------->CLICK
+ 
+
+2013-09-24 15:02:44:9749 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->2013/9/24 15:02:43
+   MsgType------->event
+     Event------->CLICK
+  EventKey------->V1001_M1_1
+Bee_ControllerName------->Demo
+Bee_ActionName------->InvokeTreeText
+  acontent------->回复1，test1
+回复2，test2
+回复3，test3
+
+ 
+
+2013-09-24 15:02:44:9905 [4] Debug Bee.WeiXin.WeiXinTextResult.Ouput(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\ActionResults.cs:line 60 
+<xml><ToUserName><![CDATA[allen]]></ToUserName><FromUserName><![CDATA[test1]]></FromUserName><MsgType><![CDATA[text]]></MsgType><CreateTime><![CDATA[1380006164]]></CreateTime><Content><![CDATA[回复1，test1
+回复2，test2
+回复3，test3
+]]></Content></xml> 
+
+2013-09-24 15:03:40:3104 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 15:05:28:7044 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->2
+ 
+
+2013-09-24 15:08:40:3079 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 15:12:31:8316 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->2
+ 
+
+2013-09-24 15:13:38:8871 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->4
+ 
+
+2013-09-24 15:13:40:3001 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+
+2013-09-24 15:13:45:4803 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->InvokeTree
+Bee_ActionName------->Detail
+        id------->2
+ 
+
+2013-09-24 15:13:57:7019 [4] Debug Bee.WeiXin.WeiXinDispatcher.GetRouteData(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\WeiXinDispatcher.cs:line 43 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->1380006836
+   MsgType------->text
+   Content------->2
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->text
+ 
+
+2013-09-24 15:13:57:7029 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->2013/9/24 15:13:56
+   MsgType------->text
+   Content------->2
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->Other
+ 
+
+2013-09-24 15:14:07:8445 [4] Debug Bee.WeiXin.WeiXinDispatcher.GetRouteData(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\WeiXinDispatcher.cs:line 43 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->1380006845
+   MsgType------->event
+     Event------->CLICK
+  EventKey------->V1001_M1_1
+Bee_ControllerName------->Demo
+Bee_ActionName------->CLICK
+ 
+
+2013-09-24 15:14:07:8455 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->2013/9/24 15:14:05
+   MsgType------->event
+     Event------->CLICK
+  EventKey------->V1001_M1_1
+Bee_ControllerName------->Demo
+Bee_ActionName------->InvokeTreeText
+  acontent------->回复1，test1
+回复2，test2
+回复3，test3
+
+ 
+
+2013-09-24 15:14:07:8465 [4] Debug Bee.WeiXin.WeiXinTextResult.Ouput(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\ActionResults.cs:line 60 
+<xml><ToUserName><![CDATA[allen]]></ToUserName><FromUserName><![CDATA[test1]]></FromUserName><MsgType><![CDATA[text]]></MsgType><CreateTime><![CDATA[1380006847]]></CreateTime><Content><![CDATA[回复1，test1
+回复2，test2
+回复3，test3
+]]></Content></xml> 
+
+2013-09-24 15:14:10:3357 [4] Debug Bee.WeiXin.WeiXinDispatcher.GetRouteData(HttpContext context) in D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\WeiXinDispatcher.cs:line 43 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->1380006849
+   MsgType------->text
+   Content------->2
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->text
+ 
+
+2013-09-24 15:14:10:3387 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+ToUserName------->test1
+FromUserName------->allen
+CreateTime------->2013/9/24 15:14:09
+   MsgType------->text
+   Content------->2
+     MsgId------->1234567890123456
+Bee_ControllerName------->Demo
+Bee_ActionName------->InvokeTreeArticle
+  bcontent------->2,1
+ 
+
+2013-09-24 15:18:40:3043 [4] Debug Bee.Web.MvcDispatcher.ProcessRequest(HttpContext context) 
+
+       Key------->Value
+Bee_ControllerName------->BeeMessage
+Bee_ActionName------->UnreadCount
+ 
+

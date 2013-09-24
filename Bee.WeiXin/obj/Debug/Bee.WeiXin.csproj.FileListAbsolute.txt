@@ -11,3 +11,9 @@ D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\bin\Debug\Bee.WeiXin.dll
 D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\bin\Debug\Bee.WeiXin.pdb
 D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\bin\Debug\Bee.Core.dll
 D:\SVNWork\Bee.WeiXinDemo\Bee.WeiXin\obj\Debug\Bee.WeiXin.pdb
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\bin\Debug\Bee.WeiXin.dll
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\bin\Debug\Bee.WeiXin.pdb
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\bin\Debug\Bee.Core.dll
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\obj\Debug\ResolveAssemblyReference.cache
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\obj\Debug\Bee.WeiXin.dll
+D:\SVNWork\Bee.WeiXin\Bee.WeiXin\obj\Debug\Bee.WeiXin.pdb
