@@ -28,6 +28,7 @@ namespace Bee.WeiXinDemo.Controllers
             }
             else
             {
+                // 由于调用链有上下文， 用户输入错误， 需要将当前应答取消。Current.MessageStack.Pop();
                 Current.MessageStack.Pop();
                 return WeiXinText("国家不合法，请重新输入国家。");
             }
