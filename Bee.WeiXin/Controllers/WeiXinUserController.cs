@@ -53,13 +53,9 @@ namespace Bee.Controllers
                     }
                 }
 
-                int recordCount = dataAdapter.TryGetValue<int>("recordcount", 0);
-
                 string selectClause = GetQuerySelectClause(typeof(WeiXinUser));
 
-                dataTable = InnerQuery("WeiXinUser", selectClause, dataAdapter, sqlCriteria, ref recordCount);
-
-                dataAdapter["recordcount"] = recordCount;
+                dataTable = InnerQuery("WeiXinUser", selectClause, dataAdapter, sqlCriteria);
             }
             catch (Exception e)
             {

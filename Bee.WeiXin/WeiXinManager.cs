@@ -201,7 +201,11 @@ namespace Bee.WeiXin
 
             dict.Remove("fakeid");
 
-            if (dict.Count >= 5 && !string.IsNullOrEmpty(dict["username"]))
+            string userName = string.Empty;
+            dict.TryGetValue("user_name", out userName);
+            dict["username"] = userName;
+
+            if (dict.Count >= 5 && !string.IsNullOrEmpty(userName))
             {
                 using (DbSession dbSession = new DbSession(WeiXinConstants.WeiXinConnString))
                 {
@@ -273,7 +277,7 @@ namespace Bee.WeiXin
 
             httpClient.Url = " https://mp.weixin.qq.com/cgi-bin/singlesend?t=ajax-response&lang=zh_CN ";
             httpClient.Context.Referer =
-                "https://mp.weixin.qq.com/cgi-bin/singlemsgpage?msgid=&source=&count=20&t=wxm-singlechat&fromfakeid=75737880&token=327096145&lang=zh_CN";
+                "https://mp.weixin.qq.com/cgi-bin/singlesendpage?t=message/send&action=index&tofakeid={0}&token={1}&lang=zh_CN".FormatWith(openId, MPToken);
 
 
             string response = httpClient.GetString();
